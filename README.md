@@ -1,5 +1,7 @@
 # Ricty Generator
 
+[![Join the chat at https://gitter.im/Bakudankun/docker-ricty-generator](https://badges.gitter.im/Bakudankun/docker-ricty-generator.svg)](https://gitter.im/Bakudankun/docker-ricty-generator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 自動で[Rictyフォント](https://github.com/yascentur/Ricty)を生成してくれるすごいやつだよ
 
 
